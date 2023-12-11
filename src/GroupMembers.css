@@ -1,0 +1,15 @@
+h1{
+ font-family: cursive;   
+ color: antiquewhite;
+}
+
+ul{
+    font-size: larger;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+}
